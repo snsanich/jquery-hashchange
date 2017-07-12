@@ -1,0 +1,19 @@
+{
+  "name": "jquery-hashchange",
+  "description": "jQuery hashchange event.",
+  "version": "1.3",
+  "homepage": "https://github.com/cowboy/jquery-hashchange",
+  "author": {
+    "name": "\"Cowboy\" Ben Alman"
+  },
+  "repository": "https://github.com/cowboy/jquery-hashchange",
+  "license":  "https://github.com/cowboy/jquery-hashchange/blob/master/LICENSE-MIT",
+  "bugs": {
+    "url": "https://github.com/cowboy/jquery-hashchange/issues"
+  },
+  "keywords": [
+    "jquery",
+    "bbq"
+  ],
+  "private": true
+}
